@@ -1,0 +1,1 @@
+wScoreText::  db "Score           0000@"

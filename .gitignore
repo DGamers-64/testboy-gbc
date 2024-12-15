@@ -1,0 +1,7 @@
+filters
+.vscode
+*.o
+*.sav
+*.2bpp
+*.map
+*.sym
